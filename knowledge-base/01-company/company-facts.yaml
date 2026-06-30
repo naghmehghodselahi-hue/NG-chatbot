@@ -1,0 +1,84 @@
+# سند: حقایق سریع NG AI Learning and Automation (برای پاسخ‌های کوتاه و دقیق چت‌بات)
+# موضوع: داده‌های ساختاریافته‌ی شرکت
+# آخرین به‌روزرسانی: ۱۴۰۵/۰۴/۱۰
+# توجه: مقادیر «[TODO]» باید با اطلاعات واقعی جایگزین شوند.
+
+company:
+  brand_name_fa: ان‌جی هوش مصنوعی
+  brand_name_en: NG AI Learning and Automation
+  full_name_en: NG AI Learning and Automation — AI Adoption Consulting
+  founder_name: Naghmeh Ghodselahi
+  founder_title_en: AI Adoption Consultant
+  tagline_en: Where learning meets doing — and results actually stick.
+  headquarters: Sydney, Australia
+  industry: AI adoption consulting, training and automation
+  website: NGAlearning.com
+  chatbot_name: Nova
+  chatbot_name_fa: نُوا
+
+contact:
+  email: info@ngalearning.com   # [TODO: ایمیل واقعی را جایگزین کن]
+  whatsapp: "https://wa.me/61469758275"
+  website: NGAlearning.com
+  booking_link_fa: "https://cal.com/naghmeh-ghodselahi-vfj3jj/cal.com-naghmeh-مشاوره-رایگان"
+  booking_link_en: "https://cal.com/naghmeh-ghodselahi-vfj3jj/cal.com-naghmeh-free-consultation"
+  city: Sydney
+  country: Australia
+
+key_numbers:
+  initial_call_cost: Free
+  initial_call_length_minutes: 20
+  team_size: 1   # مشاور مستقل — Naghmeh Ghodselahi
+  first_response_sla_hours: "[TODO]"
+
+target_market:
+  - Individuals who want to build practical AI skills
+  - Small-to-medium businesses (SMBs) adopting AI for the first time
+
+ideal_client:
+  description: An individual professional or a small-to-medium business that is AI-curious but not yet AI-capable, and wants practical, hands-on adoption rather than theory.
+
+services:
+  - id: ai-opportunity-audit
+    name_en: AI Opportunity Audit
+    one_line: A focused session to identify where AI can create real impact in the business.
+  - id: practical-ai-training
+    name_en: Practical AI Training
+    one_line: Individual or team training to start working confidently and correctly with AI.
+  - id: custom-ai-agent
+    name_en: Custom AI Agent Build
+    one_line: Tailored tools and automations built for the specific needs of the business.
+  - id: ongoing-ai-partnership
+    name_en: Ongoing AI Partnership
+    one_line: Continued support and strategy as the client's AI adoption matures.
+
+courses:
+  status: coming_soon
+  note: Course offerings are in development. Direct interested users to book the free consultation to be notified first.
+
+core_values:
+  - id: simplicity
+    name_en: Simplicity
+    description: I make AI feel as simple as it should be.
+  - id: lasting-impact
+    name_en: Lasting Impact
+    description: I'm not done until something real has changed.
+  - id: honest-expertise
+    name_en: Honest Expertise
+    description: I only recommend what actually works.
+  - id: human-first
+    name_en: Human First
+    description: I use AI to make you stronger, never dependent.
+  - id: professionalism
+    name_en: Professionalism
+    description: Show up reliable, honest, and always warm.
+  - id: continuous-growth
+    name_en: Continuous Growth
+    description: I practice the same mindset I teach.
+
+brand_colors:
+  teal: "#1C8C8C"        # رنگ اصلی برند
+  coral: "#E8664E"        # اکشن / CTA
+  sand: "#F5ECE0"         # پس‌زمینه‌ی گرم
+  navy: "#1C2E3A"         # عنوان / متن
+  warm-white: "#FAFAF8"   # پس‌زمینه‌ی اصلی
