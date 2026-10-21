@@ -51,6 +51,6 @@ NG AI Learning and Automation کسب‌وکار مشاوره‌ای ناغمه �
 ## راه ارتباطی
 - وب‌سایت: NGAlearning.com
 - واتساپ: https://wa.me/61469758275
-- ایمیل: info@ngalearning.com «[TODO: ایمیل واقعی را تأیید/جایگزین کن]»
+- ایمیل: hello@naghmehelahi.com.au
 
 برای شروع، بهترین قدم یک جلسه‌ی مشاوره‌ی رایگان ۲۰ دقیقه‌ای است؛ بدون هیچ تعهدی.
