@@ -17,7 +17,7 @@ const jsonLd = {
   description:
     "مشاوره‌ی پذیرش هوش مصنوعی برای کسب‌وکارهای کوچک؛ از آموزش عملی تا ساخت AI Agent اختصاصی.",
   url: "https://ngalearning.com",
-  email: "info@ngalearning.com",
+  email: "hello@naghmehelahi.com.au",
   areaServed: "AU",
   address: {
     "@type": "PostalAddress",

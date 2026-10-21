@@ -26,7 +26,7 @@
 | **وب‌سایت** | NGAlearning.com |
 | **چت‌بات** | Nova (نُوا) |
 | **واتساپ** | https://wa.me/61469758275 |
-| **ایمیل** | info@ngalearning.com [TODO: تأیید/جایگزینی] |
+| **ایمیل** | hello@naghmehelahi.com.au |
 
 ---
 

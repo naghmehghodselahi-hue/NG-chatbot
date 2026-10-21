@@ -52,12 +52,12 @@ export default function Footer() {
             <ul className="space-y-3.5 text-[0.95rem] text-warm-white/80">
               <li>
                 <a
-                  href="mailto:info@ngalearning.com"
+                  href="mailto:hello@naghmehelahi.com.au"
                   className="flex items-center gap-3 transition-colors hover:text-coral"
                   dir="ltr"
                 >
                   <IconMail width={20} height={20} className="shrink-0 text-coral" />
-                  <span>info@ngalearning.com</span>
+                  <span>hello@naghmehelahi.com.au</span>
                 </a>
               </li>
               <li>

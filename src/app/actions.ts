@@ -68,7 +68,7 @@ export async function submitLead(input: LeadInput): Promise<SubmitResult> {
   //       },
   //       body: JSON.stringify({
   //         from: "NG AI Learning and Automation <noreply@ngalearning.com>",
-  //         to: "info@ngalearning.com",
+  //         to: "hello@naghmehelahi.com.au",
   //         subject: `درخواست مشاوره‌ی جدید — ${row.business_name}`,
   //         text: `${row.full_name} (${row.phone})\nچالش: ${row.challenge}`,
   //       }),
